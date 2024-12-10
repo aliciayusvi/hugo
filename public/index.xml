@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Hugo</title>
     <link>http://localhost:1313/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbies</title>
+      <link>http://localhost:1313/hobbies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobbies/index.html</guid>
+      <description>La principal actividad que me gusta hacer en mi tiempo libre es viajar y conocer lugares de la naturaleza tan impresionantes como estos</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/markdown/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markdown/index.html</guid>
+      <description>ENCABEZADOS Con el símbolo #, cuantos más # se añaden, menor el nivel del encabezado (de 1 a 6)&#xA;# Encabezado nivel 1 ## Encabezado nivel 2 ### Encabezado nivel 3 #### Encabezado nivel 4 ##### Encabezado nivel 5 ###### Encabezado nivel 6 PÁRRAFOS Con dos asteriscos ** alrededor se añade el formato en negrita y con un asterisco * alrededor se añade el formato en cursiva&#xA;Texto sin formato *Texto en cursiva* **Texto en negrita** ***Texto en negrita y cursiva*** LISTAS Con guión - se añaden elementos en listas desordenadas y con números seguidos de un punto 1. se añaden los elementos en listas ordenadas</description>
+    </item>
+    <item>
+      <title>Presentación</title>
+      <link>http://localhost:1313/presentation/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/presentation/index.html</guid>
+      <description>En mi currículum destacan los apartados de estudios formales y de experiencia laboral&#xA;Estudios formales Grado en Filosofía en la Universidad de Zaragoza (2015-2021) Grado Superior en Desarrollo de Aplicaciones Multiplataforma en el IES Santiago Hernández (2022-2024) Desarrollo de Aplicaciones Web (2024-presente) Experiencia laboral Becaria en el Secretariado de Proyección Social e Igualdad (2017-2019) Reponedora en Outlet El Corte Inglés Gran Casa (2021) Operadora Logística en Plataforma Europa Grupo Inditex (2021-2022) Dependienta en Papelería Papeles y Bichos (2019-2021) Desarrolladora en Consultora Movicoders (2023-2024) Desarrollo del Front-End de una página web para gestión de empleados. Participación en la fase de definición de requisitos. Prototipado de la interfaz y la navegación. Diseño de componentes personalizados genéricos. Uso del patrón de diseño MVVM. Implementación de la lógica de negocio y pantallas de la web.</description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/technical/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/technical/index.html</guid>
+      <description>Python es un lenguaje de programación de alto nivel, fácil de aprender y muy versátil. Es ampliamente utilizado en desarrollo web, análisis de datos y más.&#xA;Documentación oficial A continuación, se presentan conceptos básicos de Python junto con ejemplos de código.&#xA;1. Variables y tipos de datos En Python, no es necesario declarar el tipo de una variable, ya que es un lenguaje de tipado dinámico.&#xA;nombre = &#34;Juan&#34; edad = 25 altura = 1.75 es_estudiante = True print(nombre, edad, altura, es_estudiante) 2. Estructuras de control Condicionales If sa if, elif y else para tomar decisiones en el programa.</description>
+    </item>
   </channel>
 </rss>
