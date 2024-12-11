@@ -1,17 +1,20 @@
 +++
-title = "Presentación"
-weigh = 1
+title = "Sobre mí"
+type = "home"
 +++
 
-En mi currículum destacan los apartados de estudios formales y de experiencia laboral
+## Estudios formales
 
-## **Estudios formales**
+**Grado en Filosofía**  
+Universidad de Zaragoza (2015-2021)
 
-- **Grado en Filosofía** en la Universidad de Zaragoza (2015-2021)
-- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en el IES Santiago Hernández (2022-2024)
-- **Desarrollo de Aplicaciones Web** (2024-presente)
+**Grado Superior en Desarrollo de Aplicaciones Multiplataforma**  
+IES Santiago Hernández (2022-2024)
 
-## **Experiencia laboral**
+**Desarrollo de Aplicaciones Web**  
+CPIFP Los Enlaces (2024-presente)
+
+## Experiencia laboral
 
 - **Becaria** en el Secretariado de Proyección Social e Igualdad (2017-2019)
 - **Reponedora** en Outlet El Corte Inglés Gran Casa (2021)
@@ -24,3 +27,10 @@ En mi currículum destacan los apartados de estudios formales y de experiencia l
   - Diseño de componentes personalizados genéricos.
   - Uso del patrón de diseño MVVM.
   - Implementación de la lógica de negocio y pantallas de la web.
+
+## Hobbies
+La principal actividad que me gusta hacer en mi tiempo libre es viajar y conocer lugares de la naturaleza tan impresionantes como estos
+
+![Texto alternativo](waterfall.jpg)
+
+![TExto](mountain.jpg)
